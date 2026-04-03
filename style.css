@@ -280,13 +280,13 @@ h1{
 
 /*Testimonial*/
 .review{
-  min-height: 50dvh!important;
+  min-height: 70dvh!important!important;
   justify-content: center;
   align-items: center;
   padding:20px;
 }
 .review .carousel-inner{
-	min-height: 600px!important;
+	min-height: 400px!important;
 	width: 290px;
 }
 .review .carousel-item img{
