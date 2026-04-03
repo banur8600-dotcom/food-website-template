@@ -17,7 +17,7 @@ A responsive Food Website Template.
 - Bootstrap
 
 🚀 Live Demo
-(Add GitHub Pages link here)
+(https://banur8600-dotcom.github.io/food-website-template/)
 
 💡 Author
 
